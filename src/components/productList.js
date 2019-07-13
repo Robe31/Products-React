@@ -140,3 +140,5 @@ const products = [
         imgUrl: "https://via.placeholder.com/150"
     },    
 ]
+
+export default products
