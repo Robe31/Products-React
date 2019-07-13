@@ -3,6 +3,12 @@
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+body {
+  background: whitesmoke;
+}
+h1 {
+  text-align: center;
+}
 #root {
   width: 75vw;
   margin: 0 auto;

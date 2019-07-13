@@ -1,7 +1,9 @@
 .product {
     display: flex;
     flex-direction: row;
-    margin: 1em 0;
+    margin: 1em .5em;
+    background: white;
+    padding: 1em;
 }
 .product_img {
     margin-right: 1em;

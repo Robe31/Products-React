@@ -4,7 +4,7 @@ import './index.css'
 import Product from './components/product'
 function App(){
     return (
-        <>
+        <> 
             <Product />
         </>
     )
